@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2012\Projects\Web_battleship\Web_battleship\bin\Web_battleship.dll
+D:\Documents\Visual Studio 2012\Projects\Web_battleship\Web_battleship\bin\Web_battleship.pdb
+D:\Documents\Visual Studio 2012\Projects\Web_battleship\Web_battleship\obj\Debug\Web_battleship.dll
+D:\Documents\Visual Studio 2012\Projects\Web_battleship\Web_battleship\obj\Debug\Web_battleship.pdb
+D:\Documents\Visual Studio 2012\Projects\Web_battleship\Web_battleship\obj\Debug\Web_battleship.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Web_battleship - копия\Web_battleship\bin\Web_battleship.dll
+D:\Documents\Visual Studio 2012\Projects\Web_battleship - копия\Web_battleship\bin\Web_battleship.pdb
+D:\Documents\Visual Studio 2012\Projects\Web_battleship - копия\Web_battleship\obj\Debug\Web_battleship.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Web_battleship - копия\Web_battleship\obj\Debug\Web_battleship.dll
+D:\Documents\Visual Studio 2012\Projects\Web_battleship - копия\Web_battleship\obj\Debug\Web_battleship.pdb
+D:\Documents\Visual Studio 2012\Projects\Web_battleship new\Web_battleship\bin\Web_battleship.dll
+D:\Documents\Visual Studio 2012\Projects\Web_battleship new\Web_battleship\bin\Web_battleship.pdb
+D:\Documents\Visual Studio 2012\Projects\Web_battleship new\Web_battleship\obj\Debug\Web_battleship.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Web_battleship new\Web_battleship\obj\Debug\Web_battleship.dll
+D:\Documents\Visual Studio 2012\Projects\Web_battleship new\Web_battleship\obj\Debug\Web_battleship.pdb
